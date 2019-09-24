@@ -1,1 +1,1 @@
-我的学习笔记就放在这里了。
+我的交互式学习笔记，用jupyternotebook+python写的。
