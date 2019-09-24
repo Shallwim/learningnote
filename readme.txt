@@ -1,1 +1,1 @@
-我的交互式学习笔记，用jupyternotebook+python写的。
+我的交互式学习笔记，用jupyternotebook+python写的。内容暂分为 matplotlib， numpy， pandas， headfirst 统计学阅读笔记 。 
